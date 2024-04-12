@@ -1,5 +1,4 @@
-# KPicture
-Android Kotlin 图片选择器, 优雅永不过时
+<p align="center"><strong>使用Kotlin编写的图片选择器</strong></p>
 
 <p align="center">
 	<a href=""><img src="https://img.shields.io/badge/使用文档-red"></a>
