@@ -1,0 +1,42 @@
+site_name: KPicture
+site_description: KPicture 使用文档
+repo_url: https://github.com/Chen-Xi-g/KPicture
+copyright: Copyright &copy; 2024 高国峰
+theme:
+  name: material
+  features:
+    - navigation.footer
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+  palette:
+    primary: light blue
+    accent: light blue
+  language: zh
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  icon:
+    annotation: material/chevron-right-circle
+  font: false
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Chen-Xi-g
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
