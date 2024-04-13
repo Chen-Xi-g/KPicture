@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 选择相册字体大小 -->
+    <dimen name="kp_album_text_size">14sp</dimen>
+    <!-- 相册列表间距 -->
+    <dimen name="kp_album_list_space">1dp</dimen>
+</resources>
