@@ -22,4 +22,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "KPicture"
 include(":app")
-include(":KPicute")
+include(":KPicture")

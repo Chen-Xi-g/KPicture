@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 相册PopupWindow动画 -->
+    <style name="kp_popup_animation">
+        <item name="android:windowEnterAnimation">@anim/kp_popup_entry</item>
+        <item name="android:windowExitAnimation">@anim/kp_popup_exit</item>
+    </style>
+</resources>

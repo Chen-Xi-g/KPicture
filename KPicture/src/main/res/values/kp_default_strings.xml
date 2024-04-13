@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="kp_str_close">关闭</string>
+    <string name="kp_str_select_album">选择相册</string>
+    <string name="kp_str_preview">预览</string>
+    <string name="kp_str_send">发送</string>
+    <string name="kp_str_camera">相机</string>
+    <string name="kp_str_album_default_name">最近项目</string>
+</resources>

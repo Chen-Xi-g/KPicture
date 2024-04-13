@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 选择相册字体大小 -->
+    <dimen name="kp_album_text_size">14sp</dimen>
+    <!-- 相册列表间距 -->
+    <dimen name="kp_album_list_space">1dp</dimen>
+    <!-- 预览字体大小 -->
+    <dimen name="kp_preview_text_size">14sp</dimen>
+    <!-- 发送字体大小 -->
+    <dimen name="kp_send_text_size">14sp</dimen>
+    <!-- 已选择选框字体大小 -->
+    <dimen name="kp_select_box_text_size">12sp</dimen>
+    <!-- 相册Popup封面图片大小 -->
+    <dimen name="kp_popup_cover_size">50dp</dimen>
+    <!-- 相册Popup标题字体大小 -->
+    <dimen name="kp_popup_title_size">14sp</dimen>
+    <!-- 相册Popup列表圆角大小 -->
+    <dimen name="kp_popup_list_radius">8dp</dimen>
+</resources>

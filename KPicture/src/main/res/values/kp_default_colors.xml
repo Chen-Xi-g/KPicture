@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 状态栏背景颜色 -->
+    <color name="kp_status_bg">#333333</color>
+    <!-- 导航栏背景颜色 -->
+    <color name="kp_nav_bg">#333333</color>
+    <!-- 选择相册背景 -->
+    <color name="kp_album_bg">#494A4A</color>
+    <!-- 选择相册字体颜色 -->
+    <color name="kp_album_text">#E0E0E0</color>
+    <!-- 相册列表背景 -->
+    <color name="kp_album_list_bg">#1A1A19</color>
+    <!-- 已选择选框背景 -->
+    <color name="kp_select_box_bg">#07C160</color>
+    <!-- 已选择选框字体颜色 -->
+    <color name="kp_select_box_text">#FFFFFF</color>
+    <!-- 已选择图片背景 -->
+    <color name="kp_select_bg">#1A000000</color>
+    <!-- 视频文件底部阴影开始 -->
+    <color name="kp_video_shadow_start">#33000000</color>
+    <!-- 视频文件底部阴影结束 -->
+    <color name="kp_video_shadow_end">#0D000000</color>
+    <!-- 视频文件时长字体颜色 -->
+    <color name="kp_video_duration_text">#F7F7F7</color>
+    <!-- 预览文字颜色 -->
+    <color name="kp_preview_text">#FFFFFF</color>
+    <!-- 预览不可点击文字颜色 -->
+    <color name="kp_preview_text_disable">#999999</color>
+    <!-- 预览不可点击背景颜色 -->
+    <color name="kp_preview_bg_disable">#4D4D4D</color>
+    <!-- 发送按钮背景颜色 -->
+    <color name="kp_send_bg">#07C160</color>
+    <!-- 发送按钮不可点击背景颜色 -->
+    <color name="kp_send_bg_disable">#4D4D4D</color>
+    <!-- 发送按钮字体颜色 -->
+    <color name="kp_send_text">#FFFFFF</color>
+    <!-- 发送按钮不可点击字体颜色 -->
+    <color name="kp_send_text_disable">#B3B3B3</color>
+
+    <!-- 相册Popup名称颜色 -->
+    <color name="kp_popup_text">#FFFFFF</color>
+    <!-- 相册Popup背景颜色 -->
+    <color name="kp_popup_bg">#7F000000</color>
+    <!-- 相册Popup列表背景颜色 -->
+    <color name="kp_popup_list_bg">#1A1A19</color>
+</resources>

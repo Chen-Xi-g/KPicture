@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="KPictureLayout">
+        <!-- 是否显示状态栏。true：显示，false：不显示。默认为true-->
+        <attr name="visible_status" format="boolean"/>
+        <!-- 是否显示导航栏，true：显示，false：不显示。默认为true-->
+        <attr name="visible_nav" format="boolean"/>
+        <!-- 状态栏背景 -->
+        <attr name="status_bg" format="reference"/>
+        <!-- 状态栏颜色 -->
+        <attr name="status_color" format="color"/>
+        <!-- 导航栏背景 -->
+        <attr name="nav_bg" format="reference"/>
+        <!-- 状态栏颜色 -->
+        <attr name="nav_color" format="color"/>
+        <!-- 关闭按钮 -->
+        <attr name="close_icon" format="reference"/>
+        <!-- 选择相册背景 -->
+        <attr name="album_bg" format="reference"/>
+        <!-- 选择相册背景颜色 -->
+        <attr name="album_bg_color" format="color"/>
+        <!-- 选择相册字体颜色 -->
+        <attr name="album_text_color" format="color"/>
+        <!-- 选择相册字体大小 -->
+        <attr name="album_text_size" format="dimension"/>
+        <!-- 选择相册右侧Icon -->
+        <attr name="album_right_icon" format="reference"/>
+        <!-- 相册列表背景 -->
+        <attr name="album_list_bg" format="reference"/>
+        <!-- 相册列表背景颜色 -->
+        <attr name="album_list_bg_color" format="color"/>
+        <!-- 列表间距 -->
+        <attr name="album_list_space" format="dimension"/>
+        <!-- 未选中选框 -->
+        <attr name="un_select" format="reference"/>
+        <!-- 选中选框 -->
+        <attr name="on_select" format="reference"/>
+        <!-- 已选择图片背景 -->
+        <attr name="select_bg" format="reference"/>
+        <!-- 视频文件底部阴影 -->
+        <attr name="video_shadow" format="reference"/>
+        <!-- 视频文件图标 -->
+        <attr name="video_icon" format="reference"/>
+        <!-- 视频文件时长字体颜色 -->
+        <attr name="video_duration_color" format="color"/>
+        <!-- 预览字体颜色 -->
+        <attr name="preview_text_color" format="color"/>
+        <!-- 预览不可点击字体颜色 -->
+        <attr name="preview_text_disable_color" format="color"/>
+        <!-- 预览字体大小 -->
+        <attr name="preview_text_size" format="dimension"/>
+        <!-- 预览背景 -->
+        <attr name="preview_bg" format="reference"/>
+        <!-- 预览背景颜色 -->
+        <attr name="preview_bg_color" format="color"/>
+        <!-- 预览不可点击背景 -->
+        <attr name="preview_disable_bg" format="reference"/>
+        <!-- 预览不可点击背景颜色 -->
+        <attr name="preview_disable_bg_color" format="color"/>
+        <!-- 发送按钮背景 -->
+        <attr name="send_bg" format="reference"/>
+        <!-- 发送按钮背景颜色 -->
+        <attr name="send_bg_color" format="color"/>
+        <!-- 发送按钮不可点击背景 -->
+        <attr name="send_disable_bg" format="reference"/>
+        <!-- 发送按钮不可点击背景颜色 -->
+        <attr name="send_disable_bg_color" format="color"/>
+        <!-- 发送按钮字体颜色 -->
+        <attr name="send_text_color" format="color"/>
+        <!-- 发送按钮不可点击字体颜色 -->
+        <attr name="send_text_disable_color" format="color"/>
+        <!-- 发送字体大小 -->
+        <attr name="send_text_size" format="dimension"/>
+    </declare-styleable>
+
+    <!-- 相册列表圆角 -->
+    <declare-styleable name="KPictureCornerFrameLayout">
+        <!-- 圆角大小 -->
+        <attr name="corner_radius" format="dimension"/>
+    </declare-styleable>
+</resources>
