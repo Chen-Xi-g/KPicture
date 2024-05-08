@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "AlibabaHealthFont2";
+  src: url("https://raw.githubusercontent.com/Chen-Xi-g/Chen-Xi-g/main/font/AlibabaHealthFont2.0CN-85B.ttf");
+}
+
+:root {
+  --md-text-font: "AlibabaHealthFont2";
+  --md-code-font: "AlibabaHealthFont2";
+}

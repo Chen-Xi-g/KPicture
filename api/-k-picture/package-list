@@ -1,0 +1,8 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.griffin.kp////PointingToDeclaration/-k-picture/com.griffin.kp/index.html
+$dokka.location:com.griffin.kp/Test///PointingToDeclaration/-k-picture/com.griffin.kp/-test/index.html
+$dokka.location:com.griffin.kp/Test/Test/#/PointingToDeclaration/-k-picture/com.griffin.kp/-test/-test.html
+$dokka.location:com.griffin.kp/Test/test/#/PointingToDeclaration/-k-picture/com.griffin.kp/-test/test.html
+com.griffin.kp
+
